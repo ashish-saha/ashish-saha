@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **debashish.saha1@ibm.com**
 
-- ⚡ Fun fact **I can do fire breathing**
+- ⚡ Fun fact **I can do fire breathing [Watch the video](https://www.youtube.com/shorts/TPOYb9iSZ-U)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
