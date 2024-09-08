@@ -9,7 +9,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://j.gifs.com/QW5570.gif">
+<img align="right" alt="Coding" width="400" src="https://fabacademy.org/2022/labs/fct/students/ricardo-marques/images/week02/FireTest1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debashish-saha1&label=Profile%20views&color=0e75b6&style=flat" alt="debashish-saha1" /> </p>
